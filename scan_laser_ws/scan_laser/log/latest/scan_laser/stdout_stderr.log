@@ -1,0 +1,5 @@
+-- Configuring incomplete, errors occurred!
+[31mCMake Error at CMakeLists.txt:15:
+  Parse error.  Expected "(", got identifier with text "dependencies".
+
+[0m

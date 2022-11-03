@@ -1,0 +1,2 @@
+Invoking command in '/home/rio/scan_laser/build/scan_laser': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rio/scan_laser -DCMAKE_INSTALL_PREFIX=/home/rio/scan_laser/install/scan_laser
+Invoked command in '/home/rio/scan_laser/build/scan_laser' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rio/scan_laser -DCMAKE_INSTALL_PREFIX=/home/rio/scan_laser/install/scan_laser

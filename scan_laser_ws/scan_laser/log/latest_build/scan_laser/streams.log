@@ -1,0 +1,7 @@
+[0.014s] Invoking command in '/home/rio/scan_laser/build/scan_laser': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rio/scan_laser -DCMAKE_INSTALL_PREFIX=/home/rio/scan_laser/install/scan_laser
+[0.027s] -- Configuring incomplete, errors occurred!
+[0.027s] [31mCMake Error at CMakeLists.txt:15:
+[0.027s]   Parse error.  Expected "(", got identifier with text "dependencies".
+[0.027s] 
+[0.027s] [0m
+[0.028s] Invoked command in '/home/rio/scan_laser/build/scan_laser' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rio/scan_laser -DCMAKE_INSTALL_PREFIX=/home/rio/scan_laser/install/scan_laser
